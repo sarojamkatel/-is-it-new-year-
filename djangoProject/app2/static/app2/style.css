@@ -1,0 +1,8 @@
+h1{
+    font-family: sans-serif,Arial, Helvetica;
+    color:red;
+    font-size: 90px;
+    text-align: center;
+     
+    /* now include this styling in our html file  */
+}
